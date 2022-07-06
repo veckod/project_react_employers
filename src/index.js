@@ -1,6 +1,6 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
+import ReactDOM from 'react-dom';                                                    
+import './index.css';                                                      
 import App from './components/app/app'; // pas obligé extension "js"                                                                                           
 
 
@@ -11,3 +11,4 @@ import App from './components/app/app'; // pas obligé extension "js"
     </React.StrictMode>,
   );
  
+
